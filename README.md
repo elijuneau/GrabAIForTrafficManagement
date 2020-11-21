@@ -1,6 +1,10 @@
 ORIGINAL PROBLEM STATEMENT:https://github.com/yingjia-liu/Msft-Grab-FRS
+
 WHERE THIS CAME FROM: https://www.kaggle.com/mahadir/grab-traffic-demand-forecasting
+
 WHAT WAS CHANGED: Imported a couple more modules and improved on the graphs (especially the first and second ones.)
+
+DATASET HERE: https://github.com/yingjia-liu/Msft-Grab-FRS/blob/master/Traffic_Management/Traffic_Management_Problem_Statement.md
 
 # GrabAIForTrafficManagement
 Grab Traffic Demand Forecasting
